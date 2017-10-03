@@ -1,9 +1,9 @@
 package sort;
 
 	// 오름차순 정렬이 목표다.
-public class Bubble {
+public class BubbleSort {
 	int [] bubbleDatas = {88, 55, 22, 77, 11, 44, 33, 99, 66};
-	public Bubble(){
+	public BubbleSort(){
 		sort();
 	}
 	private void sort(){
