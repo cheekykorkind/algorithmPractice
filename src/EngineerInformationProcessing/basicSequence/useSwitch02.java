@@ -5,8 +5,8 @@ package EngineerInformationProcessing.basicSequence;
  * 2. 100까지 반복한다.
  * 3. 결과값을 쌓아야 한다.
  */
-public class useSwitch02 {
-	public useSwitch02(){
+public class UseSwitch02 {
+	public UseSwitch02(){
 		float i = 0, result = 0;
 		while(i < 100){
 			if((int)(i/2) == i/2){	//	짝수번째

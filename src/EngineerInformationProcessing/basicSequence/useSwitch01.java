@@ -7,8 +7,8 @@ package EngineerInformationProcessing.basicSequence;
  * 3. 결과값을 쌓아야 한다.
  */
 
-public class useSwitch01 {
-	public useSwitch01(){
+public class UseSwitch01 {
+	public UseSwitch01(){
 		int result = 1;
 		int i, n, toggle;
 		i = toggle = 1;
